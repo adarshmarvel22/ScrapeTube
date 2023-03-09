@@ -85,10 +85,10 @@ def index():
                 df.to_csv('videos_data.csv', index=False)
             
             # save to database mongoDB
-            # client = pymongo.MongoClient("mongodb+srv://adarshmsd1:adarshmsd1@cluster0.zak3an8.mongodb.net/?retryWrites=true&w=majority")
-            # db=client['UTubeData']
-            # utube_col=db['utube_col']
-            # utube_col.insert_many(mydict)
+            client = pymongo.MongoClient("mongodb+srv://adarshmsd1:adarshmsd1@cluster0.zak3an8.mongodb.net/?retryWrites=true&w=majority")
+            db=client['UTubeData']
+            utube_col=db['utube_col']
+            utube_col.insert_many(mydict)
             
             data=[mydict,channel_name]
             return render_template("results.html",mydata=data)
