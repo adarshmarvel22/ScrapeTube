@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>YouTube Video Scarping</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users1">
+   <div class="header">YouTube Video Scraping: {{mydata[1]}}</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th style="color:green">Date of Scraping</th>
+         <th style="color:green">Video ID</th>
+         <th style="color:green">Video URL</th>
+         <th style="color:green">Video Title</th>
+         <th style="color:green">View Counts</th>
+         <th style="color:green">Post time</th>
+      </tr>
+         {% for data in mydata[0] %}
+     
+      <tr>    
+          <td>{{data['date_time']}}</td>
+         <td>{{data['video_id']}}</td>
+         <td>{{data['video_url']}}</td>
+         <td>{{data['title']}}</td>
+         <td>{{data['view_count']}}</td>
+         <td>{{data['post_time_text']}}</td>
+      </tr>
+      <tr>
+         <td><h4 style="color:green">Thumbnail URL</h4></td>
+         <td colspan=5>{{data['thumbnail_url']}}</td>
+      </tr>
+       {% endfor %}
+
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
