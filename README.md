@@ -5,6 +5,7 @@
 - Enter the name of channel whose videos content (video url, video id, datetime of scraping, date of video posted, views count, video thumbnail url) you want to scrape.
 - libraries used are mentioned in the requirements.txt
 - The website is hosted on Microsoft Azure 
+(The link is temporarily down/not working....will fix it soon)
 - Link : ```scrutube2.azurewebsites.net ```
 
 ```
