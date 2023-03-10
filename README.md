@@ -10,8 +10,12 @@
 ```
 You Tube Videos Scraper using Flask (Python) : ScrapeTube 1.0
 ```
-To run flask application 
-
+To run flask application :
+1. Install the requirements.txt file for the python libraries:
+```
+pip install -r requirements.txt
+```
+2. Run the app:
 ```
 python application.py
 ```
