@@ -15,5 +15,7 @@ python application.py
 To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.pwskills.app:5000/
-```![yt_res1](https://user-images.githubusercontent.com/87609950/224352261-95f86a27-ecea-44bb-856a-98608ceff279.jpg)
+```
+
+![yt_res1](https://user-images.githubusercontent.com/87609950/224352261-95f86a27-ecea-44bb-856a-98608ceff279.jpg)
 ![ytHome](https://user-images.githubusercontent.com/87609950/224352274-62cce2aa-7992-4bbb-8cef-5d427f8d7ab6.jpg)
