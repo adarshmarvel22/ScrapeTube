@@ -18,173 +18,7 @@
 2023-03-10 00:37:53,664 werkzeug  * Restarting with stat
 2023-03-10 00:37:54,281 werkzeug  * Debugger is active!
 2023-03-10 00:37:54,281 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:38:01,387 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:38:01,478 werkzeug  * Restarting with stat
-2023-03-10 00:38:02,108 werkzeug  * Debugger is active!
-2023-03-10 00:38:02,109 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:38:11,244 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:38:11,337 werkzeug  * Restarting with stat
-2023-03-10 00:38:11,943 werkzeug  * Debugger is active!
-2023-03-10 00:38:11,943 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:38:16,698 werkzeug 172.18.0.2 - - [10/Mar/2023 00:38:16] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:38:17,636 root channel name
-2023-03-10 00:38:17,637 root Searching 5 videos for https://www.youtube.com/@/videos
-2023-03-10 00:38:17,818 werkzeug 172.18.0.2 - - [10/Mar/2023 00:38:17] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:40:01,531 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:40:01,629 werkzeug  * Restarting with stat
-2023-03-10 00:40:02,240 werkzeug  * Debugger is active!
-2023-03-10 00:40:02,241 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:40:05,035 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:40:05,191 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:40:05,194 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:40:05,261 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:40:05,515 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:40:05,554 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:40:05,668 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:05] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:40:19,487 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:40:19,576 werkzeug  * Restarting with stat
-2023-03-10 00:40:20,189 werkzeug  * Debugger is active!
-2023-03-10 00:40:20,190 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:40:26,737 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:40:26,876 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:26] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:40:26,876 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:26] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:40:26,878 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:26] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:40:27,455 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:27] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:40:27,492 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:40:27,791 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:27] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:40:45,558 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:40:45,657 werkzeug  * Restarting with stat
-2023-03-10 00:40:46,267 werkzeug  * Debugger is active!
-2023-03-10 00:40:46,267 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:40:47,937 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:40:48,077 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:48] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:40:48,078 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:48] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:40:48,105 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:48] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:40:48,297 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:48] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:40:48,333 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:40:48,655 werkzeug 172.18.0.2 - - [10/Mar/2023 00:40:48] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:41:23,801 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:41:23,904 werkzeug  * Restarting with stat
-2023-03-10 00:41:24,507 werkzeug  * Debugger is active!
-2023-03-10 00:41:24,508 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:41:25,679 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:41:25,817 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:25] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:41:25,819 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:25] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:41:25,820 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:25] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:41:26,145 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:26] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:41:26,174 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:26] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:41:26,344 werkzeug 172.18.0.2 - - [10/Mar/2023 00:41:26] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:42:21,319 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:42:21,420 werkzeug  * Restarting with stat
-2023-03-10 00:42:22,059 werkzeug  * Debugger is active!
-2023-03-10 00:42:22,059 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:42:24,259 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:42:24,393 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:42:24,395 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:42:24,395 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:42:24,775 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:42:24,803 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:42:24,970 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:24] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:42:46,906 werkzeug 172.18.0.2 - - [10/Mar/2023 00:42:46] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:43:12,801 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:43:12,925 werkzeug  * Restarting with stat
-2023-03-10 00:43:13,526 werkzeug  * Debugger is active!
-2023-03-10 00:43:13,526 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:43:15,296 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:43:15,465 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:43:15,465 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:43:15,465 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:43:16,154 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:43:16,164 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:16] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:43:16,322 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:43:39,909 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:43:40,010 werkzeug  * Restarting with stat
-2023-03-10 00:43:40,617 werkzeug  * Debugger is active!
-2023-03-10 00:43:40,618 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:43:41,366 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:43:41,650 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:43:41,652 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:43:41,652 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:43:42,039 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:42] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:43:42,076 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:43:42,311 werkzeug 172.18.0.2 - - [10/Mar/2023 00:43:42] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:45:37,298 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:45:37,397 werkzeug  * Restarting with stat
-2023-03-10 00:45:38,001 werkzeug  * Debugger is active!
-2023-03-10 00:45:38,001 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:45:41,180 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2023-03-10 00:45:41,323 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
-2023-03-10 00:45:41,330 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
-2023-03-10 00:45:41,402 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
-2023-03-10 00:45:41,566 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
-2023-03-10 00:45:41,587 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:45:41,754 werkzeug 172.18.0.2 - - [10/Mar/2023 00:45:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
-2023-03-10 00:46:22,624 werkzeug 172.18.0.2 - - [10/Mar/2023 00:46:22] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:46:26,246 root channel name
-2023-03-10 00:46:26,247 root Searching 5 videos for https://www.youtube.com/@/videos
-2023-03-10 00:46:26,423 werkzeug 172.18.0.2 - - [10/Mar/2023 00:46:26] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:47:07,288 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:47:07,386 werkzeug  * Restarting with stat
-2023-03-10 00:47:08,017 werkzeug  * Debugger is active!
-2023-03-10 00:47:08,018 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:47:45,227 root channel name
-2023-03-10 00:47:45,228 root Searching 5 videos for https://www.youtube.com/@/videos
-2023-03-10 00:47:45,408 werkzeug 172.18.0.2 - - [10/Mar/2023 00:47:45] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:47:55,744 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
-2023-03-10 00:47:55,745 werkzeug  * Restarting with stat
-2023-03-10 00:47:56,328 werkzeug  * Debugger is active!
-2023-03-10 00:47:56,329 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:47:57,265 werkzeug 172.18.0.2 - - [10/Mar/2023 00:47:57] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:47:58,097 root channel name
-2023-03-10 00:47:58,099 root Searching 5 videos for https://www.youtube.com/@/videos
-2023-03-10 00:47:58,261 werkzeug 172.18.0.2 - - [10/Mar/2023 00:47:58] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:48:38,954 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:48:39,049 werkzeug  * Restarting with stat
-2023-03-10 00:48:39,637 werkzeug  * Debugger is active!
-2023-03-10 00:48:39,638 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:48:48,762 root channel name
-2023-03-10 00:48:48,763 root Searching 5 videos for https://www.youtube.com/@/videos
-2023-03-10 00:48:48,933 werkzeug 172.18.0.2 - - [10/Mar/2023 00:48:48] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:49:06,383 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:06] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:49:08,022 root channel name
-2023-03-10 00:49:08,022 root Searching 5 videos for https://www.youtube.com/@/videos
-2023-03-10 00:49:08,179 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:08] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:49:23,283 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:49:23,402 werkzeug  * Restarting with stat
-2023-03-10 00:49:24,008 werkzeug  * Debugger is active!
-2023-03-10 00:49:24,009 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:49:25,025 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:49:25,112 werkzeug  * Restarting with stat
-2023-03-10 00:49:25,696 werkzeug  * Debugger is active!
-2023-03-10 00:49:25,721 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:49:28,772 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:49:28,859 werkzeug  * Restarting with stat
-2023-03-10 00:49:38,610 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
-2023-03-10 00:49:38,611 werkzeug  * Restarting with stat
-2023-03-10 00:49:39,210 werkzeug  * Debugger is active!
-2023-03-10 00:49:39,210 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:49:39,701 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:39] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:49:41,157 root channel name
-2023-03-10 00:49:41,160 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:41] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:49:53,414 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:49:53,502 werkzeug  * Restarting with stat
-2023-03-10 00:49:54,112 werkzeug  * Debugger is active!
-2023-03-10 00:49:54,113 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:49:56,684 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:56] "[37mGET / HTTP/1.1[0m" 200 -
-2023-03-10 00:49:57,744 root channel name
-2023-03-10 00:49:57,746 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:57] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:49:58,851 root channel name
-2023-03-10 00:49:58,852 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:58] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:49:59,307 root channel name
-2023-03-10 00:49:59,307 werkzeug 172.18.0.2 - - [10/Mar/2023 00:49:59] "[37mPOST /review HTTP/1.1[0m" 200 -
-2023-03-10 00:52:08,025 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:52:08,122 werkzeug  * Restarting with stat
-2023-03-10 00:52:08,700 werkzeug  * Debugger is active!
-2023-03-10 00:52:08,701 werkzeug  * Debugger PIN: 551-174-763
-2023-03-10 00:52:10,732 werkzeug  * Detected change in '/config/workspace/application.py', reloading
-2023-03-10 00:52:10,821 werkzeug  * Restarting with stat
-2023-03-10 00:52:11,442 werkzeug  * Debugger is active!
-2023-03-10 00:52:11,442 werkzeug  * Debugger PIN: 551-174-763
+0:52:11,442 werkzeug  * Debugger PIN: 551-174-763
 2023-03-10 00:52:50,090 root channel name
 2023-03-10 00:52:50,099 werkzeug 172.18.0.2 - - [10/Mar/2023 00:52:50] "[37mPOST /review HTTP/1.1[0m" 200 -
 2023-03-10 00:53:18,855 root channel name
@@ -198,3 +32,54 @@
 2023-03-10 00:55:54,245 root channel name
 2023-03-10 00:55:54,245 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
 2023-03-10 00:55:54,936 werkzeug 172.18.0.2 - - [10/Mar/2023 00:55:54] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:02:28,687 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2023-03-10 20:02:28,688 werkzeug  * Restarting with stat
+2023-03-10 20:02:29,331 werkzeug  * Debugger is active!
+2023-03-10 20:02:29,332 werkzeug  * Debugger PIN: 336-308-953
+2023-03-10 20:02:44,401 werkzeug 172.18.0.2 - - [10/Mar/2023 20:02:44] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:02:44,489 werkzeug 172.18.0.2 - - [10/Mar/2023 20:02:44] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+2023-03-10 20:02:44,596 werkzeug 172.18.0.2 - - [10/Mar/2023 20:02:44] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+2023-03-10 20:02:44,875 werkzeug 172.18.0.2 - - [10/Mar/2023 20:02:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-03-10 20:02:49,490 root channel name
+2023-03-10 20:02:49,491 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:02:50,261 werkzeug 172.18.0.2 - - [10/Mar/2023 20:02:50] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:03:23,187 root channel name
+2023-03-10 20:03:23,188 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:03:23,998 werkzeug 172.18.0.2 - - [10/Mar/2023 20:03:23] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:03:59,796 root channel name
+2023-03-10 20:03:59,796 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:04:00,481 werkzeug 172.18.0.2 - - [10/Mar/2023 20:04:00] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:05:19,330 root channel name
+2023-03-10 20:05:19,331 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:05:20,136 werkzeug 172.18.0.2 - - [10/Mar/2023 20:05:20] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:06:04,133 root channel name
+2023-03-10 20:06:04,134 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:06:04,955 werkzeug 172.18.0.2 - - [10/Mar/2023 20:06:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:06:47,689 root channel name
+2023-03-10 20:06:47,689 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:06:48,421 werkzeug 172.18.0.2 - - [10/Mar/2023 20:06:48] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:08:23,375 root channel name
+2023-03-10 20:08:23,375 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+:19:35,883 werkzeug 172.18.0.2 - - [10/Mar/2023 20:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2023-03-10 20:19:35,973 werkzeug 172.18.0.2 - - [10/Mar/2023 20:19:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2023-03-10 20:19:36,546 werkzeug 172.18.0.2 - - [10/Mar/2023 20:19:36] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2023-03-10 20:19:47,315 werkzeug 172.18.0.2 - - [10/Mar/2023 20:19:47] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:19:55,372 root channel name
+2023-03-10 20:19:55,372 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:19:56,048 werkzeug 172.18.0.2 - - [10/Mar/2023 20:19:56] "[37mPOST /review HTTP/1.1[0m" 200 -
+2023-03-10 20:20:31,158 werkzeug 172.18.0.2 - - [10/Mar/2023 20:20:31] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:23:16,686 werkzeug 172.18.0.2 - - [10/Mar/2023 20:23:16] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:24:05,797 werkzeug  * Detected change in '/config/workspace/application.py', reloading
+2023-03-10 20:24:05,910 werkzeug  * Restarting with stat
+2023-03-10 20:24:06,557 werkzeug  * Debugger is active!
+2023-03-10 20:24:06,558 werkzeug  * Debugger PIN: 336-308-953
+2023-03-10 20:26:45,042 werkzeug 172.18.0.2 - - [10/Mar/2023 20:26:45] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:26:56,776 werkzeug 172.18.0.2 - - [10/Mar/2023 20:26:56] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:27:34,224 werkzeug 172.18.0.2 - - [10/Mar/2023 20:27:34] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:27:44,608 werkzeug 172.18.0.2 - - [10/Mar/2023 20:27:44] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:28:10,320 werkzeug 172.18.0.2 - - [10/Mar/2023 20:28:10] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:28:25,233 werkzeug 172.18.0.2 - - [10/Mar/2023 20:28:25] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:30:07,535 werkzeug 172.18.0.2 - - [10/Mar/2023 20:30:07] "[37mGET / HTTP/1.1[0m" 200 -
+2023-03-10 20:30:11,982 root channel name
+2023-03-10 20:30:11,984 root Searching 5 videos for https://www.youtube.com/@physicswallah/videos
+2023-03-10 20:30:12,751 werkzeug 172.18.0.2 - - [10/Mar/2023 20:30:12] "[37mPOST /review HTTP/1.1[0m" 200 -

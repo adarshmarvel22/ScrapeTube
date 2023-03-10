@@ -5,12 +5,8 @@ body * {
   box-sizing: border-box;
 }
 
-th{
-  color:green;
-}
-
 .header {
-  background-color: #813232;
+  background-color: #1d0a83;
   color: white;
   font-size: 1.5em;
   padding: 1rem;
@@ -25,7 +21,7 @@ img {
 }
 
 .table-users {
-  border: 1px solid #9a3b3b;
+  border: 1px solid #1d0a83;
   border-radius: 10px;
   box-shadow: 3px 3px 0 rgba(241, 4, 4, 0.1);
   max-width: calc(100% - 2em);
@@ -108,9 +104,7 @@ table tr:nth-child(2n+1) {
     display: none;
   }
 
-  th{
-    color:green;
-  }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -170,7 +164,4 @@ table tr:nth-child(2n+1) {
     overflow: visible;
   }
 
-  th{
-    color:green;
-  }
 }

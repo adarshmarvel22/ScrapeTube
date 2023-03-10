@@ -7,13 +7,22 @@
 {% endblock %}
 
 {% block body %}
+
+<form action="/review" method="POST">
 <div class="content">
-    <h1 style="text-align: center">Search</h1>
-    <div class="form">
-        <form action="/review" method="POST">
-          Channel Name <input type="text" name="content" id="content">
-          <center><input type="submit" value="Search"></center>
-        </form>
+
+  <h1 style="text-align: center">Search</h1>
+  
+<div class="mb-3 row">
+  <label for="inputPassword" class="col-sm-2 col-form-label">  Channel Name</label>
+  <div class="col-sm-10">
+    <input type="text" class="form-control" id="content" name="content">
+
+    <div class="col-auto">
+      <input type="submit" class="btn btn-primary mb-3" value="Search">
     </div>
+  </div>
 </div>
+</div>
+</form>
 {% endblock %}
