@@ -2,7 +2,7 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
 
-- Enter the name of channel whose videos content (video url, video id, datetime of scraping, date of video posted, views count, video thumbnail url) you want to scrape.
+- Enter the name of channel whose latest 5 videos content (video url, video id, datetime of scraping, date of video posted, views count, video thumbnail url) you want to scrape.
 - libraries used are mentioned in the requirements.txt
 - The website is hosted on Microsoft Azure 
 (The link is temporarily down/not working....will fix it soon)
