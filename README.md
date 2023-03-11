@@ -38,4 +38,4 @@ input channel name: PW-Foundation
 ![PW-Foundation](https://user-images.githubusercontent.com/87609950/224506388-292f4021-e958-41bb-896b-4a04fb478e38.jpg)
 ![pwss2](https://user-images.githubusercontent.com/87609950/224506408-31e79fb9-7f9b-494a-ac05-196c0b58eb75.jpg)
 
-data is saved in the csv file:
+data is saved in the csv file: https://github.com/adarshmarvel22/ScrapeTube/blob/main/videos_data.csv
