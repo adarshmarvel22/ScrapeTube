@@ -32,9 +32,10 @@ https://{your_url}.pwskills.app:5000/
 - Database :
 ![yt_db](https://user-images.githubusercontent.com/87609950/224382808-3792b942-743b-43f8-add0-4f9bf2d7a83c.jpg)
 
+- according to ques:
 
-url: https://www.youtube.com/@PW-Foundation/videos
-input channel name: PW-Foundation
+- url: https://www.youtube.com/@PW-Foundation/videos
+- input channel name: PW-Foundation
 ![PW-Foundation](https://user-images.githubusercontent.com/87609950/224506388-292f4021-e958-41bb-896b-4a04fb478e38.jpg)
 ![pwss2](https://user-images.githubusercontent.com/87609950/224506408-31e79fb9-7f9b-494a-ac05-196c0b58eb75.jpg)
 
