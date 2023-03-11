@@ -1,7 +1,9 @@
 # lab-flask
 
 <!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
-
+- The url or channel name can be hard coded but not done to make it more flexible and available
+- To fix channel name , go to application.py file and replace the channel_name with the given name:
+Like for example in the url:  "https://www.youtube.com/@PW-Foundation/videos" , replace channel name with "PW_Foundation"
 - Enter the name of channel whose latest 5 videos content (video url, video id, datetime of scraping, date of video posted, views count, video thumbnail url) you want to scrape.
 - libraries used are mentioned in the requirements.txt
 - The website is hosted on Microsoft Azure 
